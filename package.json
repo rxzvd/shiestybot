@@ -1,0 +1,24 @@
+{
+  "name": "shiesty",
+  "main": "main.js",
+  "author": "rxzvd",
+  "version": "1.0.0",
+  "repository": "https://github.com/rxzvd/shiesty",
+  "description": "haha bot go brrr",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-player": "^5.2.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "fs": "^0.0.1-security",
+    "knuth-shuffle": "^1.0.8",
+    "moment": "^2.29.1",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8"
+  }
+}
